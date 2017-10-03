@@ -1,3 +1,3 @@
 # hello-world
-my first repository
+my first repository. 
 Lo faccio perchè è scritto nel tutorial.
